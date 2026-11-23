@@ -1,5 +1,5 @@
 ﻿using System;
-namespace TourOfCsharp;
+namespace lab2-uml-DAVY-LI;
 
 class Program
 {
